@@ -1,9 +1,0 @@
-{
-  "name": "Checklist Leadec",
-  "short_name": "Checklist",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0a1628",
-  "theme_color": "#0D47A1",
-  "icons": []
-}
